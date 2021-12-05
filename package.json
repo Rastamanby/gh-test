@@ -1,8 +1,8 @@
 {
+  "homepage": "https://Rastamanby.github.io/gh-text",
   "name": "gh-pages-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rastamanby.github.io/gh-text",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
